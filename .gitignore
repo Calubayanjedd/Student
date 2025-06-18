@@ -1,0 +1,22 @@
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Copilot
+**/CopilotIndices/
+
+# Build outputs
+bin/
+obj/
+
+# Database temp files
+*.db
+*.db-shm
+*.db-wal
+
+# Other junk
+*.log
+*.tmp
+*.cache
