@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Driver%27sRegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DriversPermitForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PickingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentPermitForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentRegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucApplicant.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucLicenseCategory.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucLicenseDetails.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucMedicalCert.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucStudentApplicant.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucStudentInstructors.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucStudentPayments.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucStudentPermitDetails.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucStudentTest.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucStudentTestCenter.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
